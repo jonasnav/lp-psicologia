@@ -1,0 +1,46 @@
+#section-1 {
+    text-align: center;
+    padding: 50px 0;
+    background-image: url(../images/section1/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    .image {
+        display: flex;
+        justify-content: center;
+
+        figure {
+            width: 300px;
+        }
+    }
+
+    .title {
+        margin-bottom: 10px;
+    }
+
+    .subtitle {
+        h2 {
+            font-size: 2.5rem;
+
+            span {
+                background-color: #000;
+                color: #fff;
+                padding: 0 10px;
+            }
+        }
+    }
+
+    .text{
+        margin: 15px 0;
+    }
+
+    .call{
+        margin-top: 30px;
+    }
+
+    .botao {
+        display: flex;
+        justify-content: center;
+    }
+}
