@@ -111,6 +111,48 @@ p, figure, h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   margin-right: 20px;
 }
 
+#section-3 {
+  text-align: center;
+  padding: 70px 0;
+}
+#section-3 .title {
+  margin-bottom: 80px;
+}
+#section-3 .title h2, #section-3 .title .h2 {
+  color: #1a2c3d;
+}
+#section-3 .title h2 span, #section-3 .title .h2 span {
+  font-weight: 800;
+}
+#section-3 .item {
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px;
+  background: #238C44;
+  background: linear-gradient(90deg, rgb(35, 140, 68) 63%, rgb(140, 217, 88) 100%);
+  min-height: 120px;
+}
+#section-3 .item .number {
+  background-color: #fff;
+  margin-right: 30px;
+  padding: 15px 30px;
+  border-radius: 100px;
+}
+#section-3 .item .number h3, #section-3 .item .number .h3 {
+  font-size: 40px;
+}
+#section-3 .item .content {
+  color: #fff;
+}
+#section-3 .item .content h4, #section-3 .item .content .h4 {
+  font-size: 1rem;
+}
+#section-3 .botao {
+  margin-top: 80px;
+}
+
 /*!
  * Bootstrap  v5.3.7 (https://getbootstrap.com/)
  * Copyright 2011-2025 The Bootstrap Authors
@@ -11969,7 +12011,7 @@ textarea.form-control-lg {
 .btn-green {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   color: #238c44;
   background: #8CD958;
   background: linear-gradient(90deg, rgb(140, 217, 88) 63%, rgb(237, 221, 83) 100%);
@@ -11980,7 +12022,6 @@ textarea.form-control-lg {
   border-radius: 7px;
   padding: 10px 36px;
   position: relative;
-  width: 350px;
 }
 .btn-green:hover {
   color: #ececec;

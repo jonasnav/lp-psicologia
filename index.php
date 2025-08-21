@@ -148,11 +148,13 @@
 
     <section id="section-3">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-md-12">
                     <div class="title">
-                        <span>Saiba</span> como cuidamos de <br>
-                        todo o processo <span>por você</span>!
+                        <h2>
+                            <span>Saiba</span> como cuidamos de <br>
+                            todo o processo <span>por você</span>!
+                        </h2>
                     </div>
                 </div>
 
@@ -171,6 +173,101 @@
                                 estrategia.
                             </p>
                         </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="item">
+                        <div class="number">
+                            <h3>
+                                2
+                            </h3>
+                        </div>
+                        <div class="content">
+                            <h4>Onboarding persobalizado</h4>
+                            <p>
+                                Agendamos reunião e
+                                orçamentos sujas
+                                informações-chave.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="item">
+                        <div class="number">
+                            <h3>
+                                3
+                            </h3>
+                        </div>
+                        <div class="content">
+                            <h4>Desing & identidade visual</h4>
+                            <p>
+                                Criamos logo cores
+                                cartão de visita
+                                alinhados ao seu
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="item">
+                        <div class="number">
+                            <h3>
+                                4
+                            </h3>
+                        </div>
+                        <div class="content">
+                            <h4>Montagem do site</h4>
+                            <p>
+                                Configuramos layout e
+                                conteudos em nossa
+                                plataforma intuitiva.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="item">
+                        <div class="number">
+                            <h3>
+                                5
+                            </h3>
+                        </div>
+                        <div class="content">
+                            <h4>Integração de ferramentas</h4>
+                            <p>
+                                Conectamos Google
+                                Analytics e otimizamos
+                                seu Google Meu Negócio.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="item">
+                        <div class="number">
+                            <h3>
+                                6
+                            </h3>
+                        </div>
+                        <div class="content">
+                            <h4>Lançamento de projeto</h4>
+                            <p>
+                                Publicamos seu site e
+                                acompanhamos os resultados.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="botao">
+                        <a class="btn btn-green" href=""><i class="fab fa-whatsapp fa-2x"></i> Quero Aumentar <br> Minhas Turmas!</a>
                     </div>
                 </div>
 

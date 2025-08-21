@@ -1,7 +1,7 @@
  .btn-green {
      display: flex;
      align-items: center;
-     justify-content: space-between;
+     justify-content: center;
      color: #238c44;
      background: #8CD958;
      background: linear-gradient(90deg, rgba(140, 217, 88, 1) 63%, rgba(237, 221, 83, 1) 100%);
@@ -12,7 +12,6 @@
      border-radius: 7px;
      padding: 10px 36px;
      position: relative;
-     width: 350px;
 
      &:hover {
          color: #ececec;
