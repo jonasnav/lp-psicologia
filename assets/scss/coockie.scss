@@ -1,0 +1,45 @@
+ .cookie {
+     font-family: "Roboto", sans-serif;
+     position: fixed;
+     bottom: 10px;
+     left: 22%;
+     padding: 16px;
+     border: 1px solid #dfdfdf;
+     border-radius: 8px;
+     z-index: 99999;
+     display: none;
+     background-color: #fff;
+
+     .content {
+         display: flex;
+         align-items: center;
+         justify-content: flex-start;
+
+         .icon {
+             margin-right: 14px;
+         }
+
+         .text p {
+             font-size: 0.8em;
+             margin-top: 0.5em;
+             text-align: center;
+             letter-spacing: 4px;
+             font-weight: 400;
+         }
+
+         .link {
+             button {
+                 background-color: var(--tema-color);
+                 color: var(--color-reverse);
+                 margin-left: 10px;
+
+                 &:hover {
+                     background-color: var(--color-default);
+                     color: var(--color-reverse);
+                     border: solid 1px var(--color-reverse);
+                 }
+             }
+         }
+     }
+
+ }

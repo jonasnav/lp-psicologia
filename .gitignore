@@ -1,0 +1,8 @@
+.htaccess
+.idea
+.idea/
+.idea/
+.DS_Store
+/docker
+docker-compose.yml
+Dockerfile
