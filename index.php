@@ -275,6 +275,170 @@
         </div>
     </section>
 
+    <section id="section-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-md-12">
+                                <div class="title">
+                                    <h2>
+                                        <span>
+                                            Acelere seu consultório <br>
+                                            por 3 meses!
+                                        </span>
+                                    </h2>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="number">
+                                    <h3>De R$497 por</h3>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="valor">
+                                    <h3>
+                                        R$350
+                                    </h3>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="subtitle">
+                                    <h4>
+                                        (Valor cobrado a cada 3 meses!)
+                                    </h4>
+                                    <p>Apenas para os 10 primeiros contato!</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-10">
+                                <div class="botao">
+                                    <a class="btn btn-green" href=""><i class="fab fa-whatsapp fa-2x"></i> Quero Aumentar <br> Minhas Turmas!</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="container">
+                        <div class="row">
+
+                            <div class="col-md-12">
+                                <div class="item">
+                                    <div class="number">
+                                        <h3>
+                                            1
+                                        </h3>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Planejamento inicial</h4>
+                                        <p>
+                                            Definimos metas e
+                                            escolhemos a melhor
+                                            estrategia.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="item">
+                                    <div class="number">
+                                        <h3>
+                                            2
+                                        </h3>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Onboarding persobalizado</h4>
+                                        <p>
+                                            Agendamos reunião e
+                                            orçamentos sujas
+                                            informações-chave.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="item">
+                                    <div class="number">
+                                        <h3>
+                                            3
+                                        </h3>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Desing & identidade visual</h4>
+                                        <p>
+                                            Criamos logo cores
+                                            cartão de visita
+                                            alinhados ao seu
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="item">
+                                    <div class="number">
+                                        <h3>
+                                            4
+                                        </h3>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Montagem do site</h4>
+                                        <p>
+                                            Configuramos layout e
+                                            conteudos em nossa
+                                            plataforma intuitiva.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="item">
+                                    <div class="number">
+                                        <h3>
+                                            5
+                                        </h3>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Integração de ferramentas</h4>
+                                        <p>
+                                            Conectamos Google
+                                            Analytics e otimizamos
+                                            seu Google Meu Negócio.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="item">
+                                    <div class="number">
+                                        <h3>
+                                            6
+                                        </h3>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Lançamento de projeto</h4>
+                                        <p>
+                                            Publicamos seu site e
+                                            acompanhamos os resultados.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <?php // require_once "includes/footer-js.php" 
     ?>

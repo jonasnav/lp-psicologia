@@ -153,6 +153,73 @@ p, figure, h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   margin-top: 80px;
 }
 
+#section-4 {
+  background-color: #1a2c3d;
+  text-align: center;
+  padding: 70px 0;
+}
+#section-4 .title span {
+  background-color: #fff;
+}
+#section-4 .number h3, #section-4 .number .h3 {
+  text-decoration: line-through;
+  line-height: 1.5;
+  color: #fff;
+  font-size: 70px;
+}
+#section-4 .valor {
+  background: #fff;
+  color: #238C44;
+}
+#section-4 .valor h3, #section-4 .valor .h3 {
+  font-size: 200px !important;
+}
+#section-4 .subtitle {
+  margin: 15px 0;
+}
+#section-4 .subtitle h4, #section-4 .subtitle .h4 {
+  background-color: #238C44;
+  color: #fff;
+  font-size: 40px;
+}
+#section-4 .subtitle p {
+  color: #fff;
+  font-weight: 600;
+  font-size: 20px;
+}
+#section-4 .item {
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px;
+  background: #238C44;
+  background: linear-gradient(90deg, rgb(35, 140, 68) 63%, rgb(140, 217, 88) 100%);
+  min-height: 120px;
+}
+#section-4 .item .number {
+  background-color: #fff;
+  margin-right: 30px !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding: 11px 30px;
+  border-radius: 100px;
+}
+#section-4 .item .number h3, #section-4 .item .number .h3 {
+  text-decoration: none;
+  color: #000;
+  font-size: 40px;
+}
+#section-4 .item .content {
+  color: #fff;
+}
+#section-4 .item .content h4, #section-4 .item .content .h4 {
+  font-size: 1rem;
+}
+#section-4 .botao {
+  margin-top: 80px;
+}
+
 /*!
  * Bootstrap  v5.3.7 (https://getbootstrap.com/)
  * Copyright 2011-2025 The Bootstrap Authors
